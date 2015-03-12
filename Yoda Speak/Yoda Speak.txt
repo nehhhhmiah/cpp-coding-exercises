@@ -1,0 +1,4 @@
+(String) Master Yoda (a character from the Star Wars Movies) always phrases hissentences by placing the object before the subject and verb.
+For example:Normal sentence: "He is your father!" Yoda speak: "Your father, he is"Normal sentence: "You are going to win." Yoda speak: "Going to win, you are"Write a function to imitate the Yoda speak as follows:
+string YodaSpeak( string input )//Purpose: "Translate" the input string into Yoda Speak
+//Pre: 	input is a string with words only.//      The subject and the verb are 1 word each.// 	The rest can be multiple words.//Post: Return a string with the Subject and Verb moved to the//      end of the string after changing the case,//  	drop the punctuation and removing of leading blanks
