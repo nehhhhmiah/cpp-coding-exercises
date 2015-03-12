@@ -1,0 +1,11 @@
+in1:
+Test for n=81631, sample input from Lab sheet.
+
+in2:
+Test for n=81632, test a runaround number and see if next greater one is output.
+
+in3:
+Test for n=1234567890, input number is out of range.
+
+in4:
+Test for n=9999999, next runaround number is out of range.

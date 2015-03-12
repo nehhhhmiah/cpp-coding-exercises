@@ -1,0 +1,1 @@
+Error, please make sure N and M are within the range of 1 <= N, M <= 1000.

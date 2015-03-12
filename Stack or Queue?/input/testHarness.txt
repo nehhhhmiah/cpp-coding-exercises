@@ -1,0 +1,17 @@
+in1:
+Sample input from lab sheet.
+
+in2:
+Tests minimum boundary case, 1 input.
+
+in3:
+Test maximum boundary case, 20 inputs.
+
+in4:
+Test out of boundary case, 0 inputs.
+
+in5:
+Test out of boundary case, 21 inputs.
+
+in6:
+Test random case, 10 inputs.

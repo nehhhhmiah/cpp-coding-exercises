@@ -1,0 +1,8 @@
+in1:
+Sample input from lab sheet.
+
+in2:
+Tests minimum case, 1 soldier, 1 formation.
+
+in3:
+Test boundary case, 10 soldiers, 10 formations.

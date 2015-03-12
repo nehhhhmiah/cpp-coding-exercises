@@ -1,0 +1,17 @@
+in1:
+Test for n=1, minimum odd number case.
+
+in2:
+Test for n=19, maximum odd number case.
+
+in3:
+Sample input from Lab sheet, n=3.
+
+in4:
+Test for n=11, a random number within the given range.
+
+in5:
+Handle negative input out of the range 1 <= n <= 19, test to take in n again and output correctly.
+
+in6:
+Handle input out of the range 1 <= n <= 19, test to take in n again and output correctly.

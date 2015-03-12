@@ -1,0 +1,14 @@
+in1:
+Sample input from lab sheet.
+
+in2:
+Tests minimum case, 1 operation and 1 ball.
+
+in3:
+Tests case with 8 operations and 11 balls.
+
+in4:
+Tests boundary case with N = 0.
+
+in5:
+Test boundary case with N = 1001 and M = 1001.

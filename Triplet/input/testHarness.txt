@@ -1,0 +1,11 @@
+in1:
+Sample input from lab sheet.
+
+in2:
+Tests boundary case, 3 input.
+
+in3:
+Test out of boundary case, 50,001 inputs.
+
+in4:
+Test random case, 10 inputs.
